@@ -3,7 +3,7 @@
 
 ---
 
-🌱 I’m currently enhancing my skills in **Test Automation, Java, and DevOps**  
+🌱 I’m currently enhancing my skills in **Test Automation, Playwright with typescript**  
 💼 ISTQB Certified | MBA in Project Management  
 💻 7+ years of IT Experience | Focused on Quality Engineering  
 
